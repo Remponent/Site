@@ -1,2 +1,2 @@
-# Site
- remponent's main website (work in progress)
+# Remponent
+A re-usable component library for your next project. Leave frontend to remponent
